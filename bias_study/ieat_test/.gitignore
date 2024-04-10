@@ -1,0 +1,14 @@
+notebooks/.ipynb_checkpoints
+ieat.egg-info
+models/*
+clusters/*
+ieat/__pycache__
+data/cifar*
+*.DS_Store
+.idea
+.log
+notebooks/.log
+.Rproj.user
+.RData
+.RHistory
+ieat.Rproj

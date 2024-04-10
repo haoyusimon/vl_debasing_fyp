@@ -1,0 +1,1 @@
+python sentbias/main.py -m clip --log_file test.clip --results_path results-text-B-16-two-sided-prompt_age.tsv  --ignore_cached_encs --tests insect-flower,weapon,native,weight,skin-tone,disability,sexuality,race,arab-muslim,age,gender-science,gender-career

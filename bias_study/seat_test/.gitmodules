@@ -1,0 +1,10 @@
+[submodule "SentEval"]
+	path = SentEval
+	url = https://github.com/facebookresearch/SentEval.git
+[submodule "src/models/senteval"]
+	path = src/models/senteval
+	url = https://github.com/facebookresearch/SentEval.git
+[submodule "jiant"]
+	path = jiant
+	url = https://github.com/jsalt18-sentence-repl/jiant.git
+	branch = sentbias

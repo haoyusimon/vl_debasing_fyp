@@ -1,0 +1,13 @@
+Test,Model,X,Y,A,B,d,p,n_t,n_a,sig
+Insect-Flower,CLIP,flower,insect,pleasant,unpleasant,1.5351275,1.0,35,55,
+Weapon,CLIP,white,black,tool,weapon,0.9615392,0.9534632034632035,6,7,
+Native,CLIP,euro,native,us,world,-1.1124265,0.01,8,5,**
+Weight,CLIP,thin,fat,pleasant,unpleasant,1.3031243,0.9808,10,55,
+Skin-Tone,CLIP,light,dark,pleasant,unpleasant,0.08273103,0.5565268065268065,7,55,
+Disability,CLIP,disabled,abled,pleasant,unpleasant,0.88092905,0.9,4,55,
+Sexuality,CLIP,gay,straight,pleasant,unpleasant,-0.79159987,0.9525,9,55,
+Race,CLIP,european-american,african-american,pleasant,unpleasant,-1.0273342,0.03463203463203463,6,55,**
+Arab-Muslim,CLIP,other-people,arab-muslim,pleasant,unpleasant,0.43662488,0.1726,10,55,
+Age,CLIP,young,old,pleasant,unpleasant,0.4084731,0.7467532467532467,6,55,
+Gender-Science,CLIP,male,female,science,liberal-arts,0.54507977,0.9933,40,21,
+Gender-Career,CLIP,male,female,career,family,0.7419847,0.0007,40,21,***
